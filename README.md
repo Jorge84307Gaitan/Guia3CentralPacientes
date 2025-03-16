@@ -62,7 +62,10 @@ Central_De_Pacientes/
 5. Abre un **Pull Request**.
 
 ## Autor
-- **[Tu Nombre]** - Desarrollo y documentación.
+- **[Felipe Martinez
+- Jorge Gaitan
+- Miguel Moscote
+- Mariana Rubiano]** - Desarrollo y documentación.
 
 ## Licencia
 Este proyecto está bajo la licencia **MIT**.
